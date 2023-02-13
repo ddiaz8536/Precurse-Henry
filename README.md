@@ -1,2 +1,2 @@
-# Precurse-Henry
-este es un repositorio de prueba del precurse de Henry
+Este proyecto es una prueba de como clonar
+
